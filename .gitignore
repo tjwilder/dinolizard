@@ -1,0 +1,9 @@
+
+
+# Ignore the progress file
+progress.txt
+
+# Ignore any tar or zip files of images
+*.tar
+*.zip
+*.gzip
